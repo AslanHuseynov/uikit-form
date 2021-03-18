@@ -1,0 +1,31 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: radial-gradient(circle, rgb(255, 255, 255),rgb(183, 220, 231), rgb(24, 88, 141));
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    padding: 120px;
+    border: 1px solid rgb(97, 96, 96);
+    border-radius: 5px;
+    width: 400px;
+    background-color: white;
+  }
+  
+  button {
+    width: 100%
+  }
+
+  .uk-fieldset {
+    border: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    right: 40px;
+}
+
